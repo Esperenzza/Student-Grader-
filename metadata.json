@@ -1,0 +1,5 @@
+{
+  "name": "Calculateur de Moyenne Scolaire Pro",
+  "description": "Une application élégante et intelligente pour calculer les moyennes scolaires par matière et globales, avec gestion des coefficients et analyse IA des performances.",
+  "requestFramePermissions": []
+}
